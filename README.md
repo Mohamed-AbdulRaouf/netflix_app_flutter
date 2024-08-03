@@ -1,6 +1,6 @@
 # netflix_app
 
-Netflix App
+Netflix App using Flutter
 
 ## Getting Started
 
